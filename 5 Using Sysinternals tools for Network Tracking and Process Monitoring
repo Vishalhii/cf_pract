@@ -1,0 +1,31 @@
+AIM: Using Sysinternals tools for Network Tracking and Process Monitoring 
+
+A. Check Sysinternal tools 
+Path: D ◻ SOFT ◻ msc ◻ Sysinternals 
+
+B. Monitor Live Process 
+Software Used◻ Procmon 
+
+Click on Procmon 
+Click on any process which is showing SUCCESS 
+Right Click ◻ Properties 
+This Page will Open which will show the properties of the event 
+
+
+C. Capture RAM 
+Software used◻ RAMmap
+
+Use counts
+Processes
+
+D. Capture TCP/UDP Packets 
+Software used◻ TCPview
+
+E. Monitor Hard Disk 
+Software used◻ Diskmon
+
+F. Monitor Virtual Memory 
+Software used◻ VMmap
+
+G. Monitor Cache Memory 
+Software used◻ Cacheset
