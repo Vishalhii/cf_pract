@@ -1,0 +1,15 @@
+AIM: Forensic Case study: Solve the case using Autopsy.
+
+Step 1: Go to Autopsy and click on New Case. 
+Step 2: Give the Case File Path and click Next. 
+Step 3: Enter the Details. 
+Step 4: Select "Local Disk" and then click "Next.
+Step 5: Select the Local Disk by clicking "Select Disk," then choose New Volume (E:) and 
+click OK. Afterwards, click Next.
+Step 6: In the Configure Ingest Modules section, click "Select All," then click "Next.
+Step 7: You will be able to see the E drive on the screen.
+Step 8: Select the deleted file and save it to the desired folder. The file will be extracted by 
+clicking OK. 
+Step 9: Generate Report 
+OUTPUT 1: Extracted file.
+OUTPUT 2: Report
