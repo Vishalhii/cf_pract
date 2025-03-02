@@ -1,0 +1,29 @@
+AIM : Creating a Forensic Image using FTK Imager. - 
+Creating Forensic Image. - - 
+Check Integrity of Data. 
+Analyze Forensic Image. 
+
+> Creating Forensic Image  
+Step 1: Open FTK Image application.
+Step 2: Click the File option in the Tab Bar and select the Create Disk Image option. Choose 
+"Contents of a Folder" and click Next. 
+Step 3: Select the path for the evidence source and click "Finish." 
+Step 4: Enter all the case details and click on next. Then, click the "Add" button.
+Step 5: Select a folder where the case details should be stored and click on finish.
+Step 6: Verify the MD5 Hash and SHA1 Hash values. 
+Step 7: After all this step three files will be created in the case details folder.
+OUTPUT 1: Text File. 
+OUTPUT 2: Excel File
+
+> Check Integrity of Data
+Step 8: Go to File and select Add Evidence Item option. Then Select Image File and click on 
+Next. 
+Step 9: Give the Evidence Source path and click on Finish. 
+Step 10: Enter the Password.
+Step 11: Right click on the file and select Verify Drive/Image. 
+Step 12: The MD5 Hash and SHA1 Hash will be matched.
+
+> Analyse Forensic Image  
+Step 13: Now right click on the AD1 File. 
+Step 14: Select Export File Hash List.
+
