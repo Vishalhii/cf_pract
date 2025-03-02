@@ -1,0 +1,46 @@
+AIM:- Recovering and Inspecting deleted files:- 
+- Check for deleted files -
+Recover the deleted files 
+- Analyzing and inspecting the recovered files 
+Perform this using recovery option in ProDiscover and FTK also perform manually through 
+command line
+
+(
+> Check for deleted files.
+Step 1: Open the ProDiscover Software and fill the detail then click on Open 
+Step 2: Click “Capture & Add Image,” enter the details (source Drive: pen drive), set a 
+password, and click “OK.”
+Step 3: After clicking OK on the prompt, you will see the Image Password prompt. Enter the 
+password to proceed.
+Step 3: Click on “Images” and select “E:\TYCS_523\CF.eve” .
+
+> Recover the Deleted Files  
+Step 4: Export the deleted file. 
+Step 5: Select the path to save the exported file.
+OUTPUT: 
+A file is saved to the destination path.
+)
+
+more detail steps for prac 10
+
+(
+STEP 1:- Open ProDiscover Basic → Create a New Project 
+STEP 2:- Click on Add(+) symbol → Capture & Add Image
+STEP 3:- 
+Pop will open 
+1) Add the Source Path (Your Pendrive Folder path) 
+2) Add the Destination Path 
+3) Add the technician Name 
+4) Add the Image number
+5) Add the Description 
+6) Click on OK
+STEP 4:- The Image will be processing as shown below
+STEP 5:- 
+After Image is Processed - 
+Click on Reports on left and then the report of the file will be open
+STEP 6:-Then click on Content View → Images → Folder Path
+STEP 7:- Then All the deleted Files from the Pendrive will be shown 
+Then Right Click → Copy File
+It will Ask the Path where the Image of the File should be saved
+The Image File is saved in the Folder
+)
