@@ -1,0 +1,8 @@
+AIM: Analysis the packers provided in the lab using unsecured websites using 
+Wireshark.
+
+Step 1: Open Wireshark. 
+Step 2: Go to an unsecured website like “Techpanda.org”. And login to the website. 
+Step 3: Now go to wireshark and add the query: `frame matches "(?i)resources" ` to the filter 
+bar. 
+ 
