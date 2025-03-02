@@ -1,0 +1,26 @@
+AIM: - Email Forensics. 
+
+> Mail service provider
+> email protocols
+> recovering emails
+> analyzing email header
+
+Google takeout 
+Step 1: Search Google Takeout and click on the first link. Then go to Mail and check it. 
+Step 2: Click “ALL MAIL DATA INCLUDED” then select all the option. 
+Step 3: In Frequency, select "Export" once, then choose the file type as .zip and set the file 
+size to 1GB before clicking "Export."
+Step 4: Received an email as shown below. 
+Step 5: Please download a copy of your Google data. 
+Step 6: Open FTK, select "Create Disk Image" from the File menu, and choose "Content of a 
+Folder" as the source.
+Step 7: Select the folder where the Takeout folder has been extracted, then click on Finish 
+and click on Add.
+Step 8: Then fill out the Form and click on Next 
+Step 9: Select the folder where you want to create the image file. Then, click Finish. 
+Step 10: Click on "Start," and you will see the "MD5 Hash" and "SHA1 Hash."
+Step 11: Go to the file menu and select Image Mounting. Then, fill in the destination folder, 
+by selecting created an ad1 file. Browse to select the file and choose a drive letter (I have 
+chosen Z). Finally, click on Mount.
+OUTPUT: 
+Go on the folder and you will get all the Image files :
