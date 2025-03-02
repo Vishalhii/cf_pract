@@ -1,0 +1,17 @@
+Aim : Web browser forensics
+
+> Web Browser Working
+Step 1: Go to my activity.google.com.
+Step 2: Go to Site settings.
+
+> Cache / Cookie analysis
+Step 3: Click on Third-party cookies. 
+Step 4: Click on “Allow third-party” cookies
+
+> Forensics activities on browser
+Step 5: Open the Command prompt Run as administrator  
+Run the Command: ipconfig/displaydns 
+
+> Last Internet activity
+Step 6: Open chrome and open history 
+Step 7: Search “myactivity.google.com.” It will show all the sites visited  
