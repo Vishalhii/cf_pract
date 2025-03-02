@@ -5,11 +5,9 @@ Path: D ◻ SOFT ◻ msc ◻ Sysinternals
 
 B. Monitor Live Process 
 Software Used◻ Procmon 
-
-Click on Procmon 
-Click on any process which is showing SUCCESS 
-Right Click ◻ Properties 
-This Page will Open which will show the properties of the event 
+Step 1: Open ProcMon Application
+Step 2: Select a Success File right click on it and select properties
+OUTPUT: Event, Process, and Stack
 
 
 C. Capture RAM 
@@ -20,6 +18,7 @@ Processes
 
 D. Capture TCP/UDP Packets 
 Software used◻ TCPview
+
 
 E. Monitor Hard Disk 
 Software used◻ Diskmon
