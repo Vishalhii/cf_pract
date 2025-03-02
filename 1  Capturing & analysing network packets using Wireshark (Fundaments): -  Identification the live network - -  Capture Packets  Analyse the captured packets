@@ -1,0 +1,13 @@
+AIM: Capturing & analysing network packets using Wireshark (Fundaments): - 
+Identification the live network - - 
+Capture Packets 
+Analyse the captured packets 
+
+Step 1: Open Wireshark 
+STEP 2: Add the following Filters. 
+Identification the live network
+TCP: 
+Capture Packets
+Analyse the captured packets
+ARP:
+SMB: 
